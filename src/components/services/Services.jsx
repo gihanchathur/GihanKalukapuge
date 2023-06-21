@@ -26,7 +26,7 @@ const Services = () => {
 
             <li>
             <FaUniversity className="service__list-icon"/>
-            <p>Chartered Institute of Personnel Management <br/>Diploma in Human Resource Management</p>
+            <p>University of Colombo School of Computing<br/>Diploma in Java Programming</p>
             </li>
 
             <li>
@@ -36,17 +36,17 @@ const Services = () => {
 
             <li>
             <FaUniversity className="service__list-icon"/>
-            <p>Devi Balika Vidyalaya - Colombo 08 <br/> G.C.E. Advanced Level</p>
+            <p>Ananda College - Colombo 10<br/> G.C.E. Advanced Level</p>
             </li>
 
             <li>
             <FaUniversity className="service__list-icon"/>
-            <p>Ananda Balika Vidyalaya - Colombo 10<br/>G.C.E. Ordinary Level</p>
+            <p>Thurstan College - Colombo 07<br/>G.C.E. Ordinary Level</p>
             </li>
 
             <li>
             <FaUniversity className="service__list-icon"/>
-            <p>Institute of Bankers Sri Lanka <br/> Itermediate in Applied Banking & Finance</p>
+            <p>UINCAT Information Technology Academy<br/> Diploma in C++ Programming</p>
             </li>
 
             <li>
@@ -66,7 +66,7 @@ const Services = () => {
 
             <li>
             <IoBookSharp className="service__list-icon"/>
-            <p><b>Certificate Course in Java Programming with honors </b><br/> Duke University</p>
+            <p><b>Diploma in Java Programming</b><br/>University of Colombo School of Computing</p>
             </li>
 
             <li>
@@ -76,7 +76,7 @@ const Services = () => {
 
             <li>
             <IoBookSharp className="service__list-icon"/>
-            <p><b>Certificate Course in Fundamentals in Digital Marketing </b><br/> Google Digital Garage</p>
+            <p><b>Diploma in C++ Programming</b><br/>UINCAT Information Technology Academy</p>
             </li>
 
             <li>
@@ -111,46 +111,44 @@ const Services = () => {
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Assisstant Secretary</b></p>
-            </li>
-            <li>
-            <BsPersonHeart className="service__list-icon"/>
-            <p><b>Active Member</b><br/>Leo Club of University of Moratuwa</p>
+            <p><b>Committee Member</b><br/>INTECS University of Moratuwa</p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Media Committee Lead Web Design</b><br/> IEEE Student Branch of University of Moratuwa</p>
+            <p><b>Design Committee Member</b><br/> IEEE Industry Applications Society of University of Moratuwa</p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Editorial Pillar Member</b><br/> Mora E-Sports Community</p>
+            <p><b>Former Crew Member</b><br/> Weight Lifting Crew University of Moratuwa</p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Former Crew Member</b><br/> Rowing Crew University of Moratuwa</p>
+            <p><b>Design Team Member</b><br/> FIT Moments - Faculty of IT Media Unit</p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Editorial Pillar Member</b><br/> Mora E-Sports Community</p>
+            <p><b>Creative Design  Pillar Memberr</b><br/> MoraSpirit</p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Editorial Team Member</b><br/>Information Technology Society of University of Moratuwa</p>
+            <p><b>Design Team Lead - Hackmoral 5.0</b></p>
             </li>
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Project Editor</b><br/>Rotaract Club of University of Moratuwa</p>
+            <p><b>Design Team Member</b><br/>Information Technology Society of University of Moratuwa</p>
             </li>
+            
+            
 
             <li>
             <BsPersonHeart className="service__list-icon"/>
-            <p><b>Committee Member</b><br/>IEEE WIE Student Branch OF University of Moratuwa</p>
+            <p><b>Project Designer</b><br/>RotaractMora</p>
             </li>
          </ul>
 
@@ -162,4 +160,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default Services;
